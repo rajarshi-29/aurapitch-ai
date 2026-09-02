@@ -234,8 +234,3 @@ npm run preview
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-<div align="center">
-  <b>AuraPitch AI PRO • Enterprise-Grade Conversational Intelligence</b><br>
-  Built with ❤️ for founders, closers, and high-stakes leaders worldwide.
-</div>
